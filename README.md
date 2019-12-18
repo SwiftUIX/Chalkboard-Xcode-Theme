@@ -10,4 +10,4 @@ A darkened version of the default Xcode theme - it uses similar colors to the de
 
 ### Preview
 
-<img src="https://raw.githubusercontent.com/alobi/Chalkboard-Xcode-Theme/master/screenshot.png" alt="Chalkboard Xcode Theme - Preview" title="Chalkboard Xcode Theme - Preview" />
+<img src="https://raw.githubusercontent.com/SwiftUIX/Chalkboard-Xcode-Theme/master/screenshot.png" alt="Chalkboard Xcode Theme - Preview" title="Chalkboard Xcode Theme - Preview" />
