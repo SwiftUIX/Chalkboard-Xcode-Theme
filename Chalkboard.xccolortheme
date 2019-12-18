@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.934399 0.934574 0.934356 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>SFMono-Bold - 11.0</string>
+	<string>SFMono-Bold - 22.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.934399 0.934574 0.934356 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>SFMono-Regular - 11.0</string>
+	<string>SFMono-Regular - 22.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.317071 0.437736 1 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>SFMono-Bold - 11.0</string>
+	<string>SFMono-Bold - 22.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.934399 0.934574 0.934356 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>SFMono-Regular - 11.0</string>
+	<string>SFMono-Regular - 22.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.934399 0.934574 0.934356 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>SFMono-Bold - 11.0</string>
+	<string>SFMono-Bold - 22.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.0681978 0.0811901 0.0978 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -32,6 +32,8 @@
 	<string>0.705792 0.8 0.544 1</string>
 	<key>DVTFontAndColorVersion</key>
 	<integer>1</integer>
+	<key>DVTFontSizeModifier</key>
+	<integer>11</integer>
 	<key>DVTLineSpacing</key>
 	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
@@ -39,37 +41,37 @@
 	<key>DVTMarkupTextBorderColor</key>
 	<string>0.288929 0.298934 0.309603 1</string>
 	<key>DVTMarkupTextCodeFont</key>
-	<string>SFMono-Regular - 10.0</string>
+	<string>SFMono-Regular - 21.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.755963 0.782884 0.746203 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
-	<string>.SFNS-RegularItalic - 10.0</string>
+	<string>.SFNS-RegularItalic - 20.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
 	<string>0.755963 0.782884 0.746203 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.369442 0.758226 0.908163 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.SFNS-Regular - 10.0</string>
+	<string>.SFNS-Regular - 20.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>0.755963 0.782884 0.746203 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.SFNS-Regular - 10.0</string>
+	<string>.SFNS-Regular - 20.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0.755963 0.782884 0.746203 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.SFNS-Regular - 14.0</string>
+	<string>.SFNS-Regular - 28.0</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0.755963 0.782884 0.746203 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.SFNS-Regular - 24.0</string>
+	<string>.SFNS-Regular - 48.0</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0.755963 0.782884 0.746203 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.SFNS-Regular - 18.0</string>
+	<string>.SFNS-Regular - 36.0</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0.755963 0.782884 0.746203 1</string>
 	<key>DVTMarkupTextStrongFont</key>
-	<string>.SFNS-Bold - 10.0</string>
+	<string>.SFNS-Bold - 20.0</string>
 	<key>DVTScrollbarMarkerAnalyzerColor</key>
 	<string>0.403922 0.372549 1 1</string>
 	<key>DVTScrollbarMarkerBreakpointColor</key>
@@ -85,11 +87,11 @@
 	<key>DVTScrollbarMarkerWarningColor</key>
 	<string>0.937255 0.717647 0.34902 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.100739 0.11595 0.141483 1</string>
+	<string>0.16132 0.172602 0.183234 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.275352 0.327189 0.388236 0.451392</string>
+	<string>0.275352 0.327189 0.388236 0</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.755405 0.783785 0.746467 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
@@ -109,7 +111,7 @@
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.38649 0.632374 0.384585 1</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>0.254902 0.631373 0.752941 1</string>
+		<string>0.745432 0.751321 0.750932 1</string>
 		<key>xcode.syntax.declaration.type</key>
 		<string>0.362946 0.846428 0.998966 1</string>
 		<key>xcode.syntax.identifier.class</key>
@@ -121,7 +123,7 @@
 		<key>xcode.syntax.identifier.constant.system</key>
 		<string>0.497653 0.603736 0.844208 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.3646 0.587225 0.714286 1</string>
+		<string>0.363367 0.588339 0.718125 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.497653 0.603736 0.844208 1</string>
 		<key>xcode.syntax.identifier.macro</key>
@@ -156,59 +158,59 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.character</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>RobotoMonoForPowerline-Bold - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>RobotoMonoForPowerline-Bold - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>RobotoMonoForPowerline-Bold - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.number</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.string</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 		<key>xcode.syntax.url</key>
-		<string>RobotoMonoForPowerline-Regular - 12.0</string>
+		<string>SFMono-Regular - 22.0</string>
 	</dict>
 </dict>
 </plist>
